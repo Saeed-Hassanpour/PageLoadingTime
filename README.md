@@ -18,7 +18,7 @@
 ## INSTALLATION ##
 
 1. Download the **[latest release](https://github.com/Saeed-Hassanpour/PageLoadingTime/releases/latest)**
-2. Import plugin **dynamic_action_plugin_de_kubicek-consulting_pageloadingtime.sql** to your APEX app
+2. Import plugin **dynamic_action_plugin_de_kubicek-consulting_pageloadingtime.sql** to your APEX APPs
 3. Add to pages only with two clicks
 4. Create a Table for holding times
 
