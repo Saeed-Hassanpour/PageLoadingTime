@@ -4,7 +4,7 @@
 **This plugin holds the page loading time into table and we could use for the performance checking**
 
 
-![](https://raw.githubusercontent.com/Saeed-Hassanpour/PageLoadingTime/master/preview.gif)
+![](https://raw.githubusercontent.com/Saeed-Hassanpour/PageLoadingTime/master/PageLoadingTime.gif)
 
 ## DEMO ##
 
