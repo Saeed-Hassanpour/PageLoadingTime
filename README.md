@@ -13,7 +13,7 @@
 
 ## PRE-REQUISITES ##
 
-* [Oracle Application Express 5.1](https://apex.oracle.com)
+* [Oracle Application Express 5.1 and later](https://apex.oracle.com)
 
 ## INSTALLATION ##
 
