@@ -28,7 +28,7 @@
         "internalName" : "DE.KUBICEK-CONSULTING.PAGELOADINGTIME",
         "type" : "dynamic action",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=OAC:13",
-        "previewImage" : "https://github.com/Saeed-Hassanpour/PageLoadingTime/blob/master/PageLoadingTime.gif"
+        "previewImage" : "https://raw.githubusercontent.com/Saeed-Hassanpour/PageLoadingTime/master/PageLoadingTime.gif"
       }
     }
   }
