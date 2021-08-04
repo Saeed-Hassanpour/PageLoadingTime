@@ -27,7 +27,7 @@
       "plugin" : {
         "internalName" : "DE.KUBICEK-CONSULTING.PAGELOADINGTIME",
         "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=OAC:13",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=OAC:5",
         "previewImage" : "https://raw.githubusercontent.com/Saeed-Hassanpour/PageLoadingTime/master/PageLoadingTime.gif"
       }
     }
