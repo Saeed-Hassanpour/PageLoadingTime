@@ -1,0 +1,35 @@
+{
+  "name" : "PageLoadingTime",
+  "version" : "1.0",
+  "description" : "A Dynamic Action Plugin for Oracle Application Express. This plugin holds the page loading time into table and we could use for the performance checking",
+  "keywords" : ["PageLoadingTime","Page"],
+  "homepage" : "https://github.com/Saeed-Hassanpour/PageLoadingTime",
+  "bugs" : {
+    "url" : "https://github.com/Saeed-Hassanpour/PageLoadingTime/issues",
+    "email" : "mr.saeedhassanpour@gmail.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Saeed Hassanpour",
+    "email" : "mr.saeedhassanpour@gmail.com",
+    "url" : "https://saeedhassanpour.blogspot.com",
+    "twitter" : "@HassanpourSaeed"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Saeed-Hassanpour/PageLoadingTime.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1", "18.0.0.0", "19.0.0.0", "21.1.0.0.1"],
+    "apex" : {
+      "versions" : ["5.1.1", "18.2.0", "20.1.0", "21.1.2"],
+      "plugin" : {
+        "internalName" : "DE.KUBICEK-CONSULTING.PAGELOADINGTIME",
+        "type" : "Dynamic Action",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=OAC:13",
+        "previewImage" : "https://github.com/Saeed-Hassanpour/PageLoadingTime/blob/master/PageLoadingTime.gif"
+      }
+    }
+  }
+}
